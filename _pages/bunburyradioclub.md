@@ -23,6 +23,8 @@ The founding members a listed below, the information gathers from various docume
 
 ## Committee
 
+Office Bearers for the club. The year indicates the beginning of the 12mth term after the AGM.
+
 ### 1977
 
 | Office | Bearer |
@@ -55,16 +57,31 @@ The founding members a listed below, the information gathers from various docume
 | Vice President |  |
 | Secretary/Treasurer |  |
 
+### 1989
+
+| Office | Bearer |
+|---|---|
+| President | Brenda MR236 [^3] |
+| Vice President |  |
+| Secretary | Dave Lindsay [^3] |
+| Treasurer |  |
+| Members | |
+|   |  |
+
 ### 1992
 
 | Office | Bearer |
 |---|---|
 | President | John Thornborough [^1] |
-| Vice President |  |
-| Secretary |  |
-| Treasurer |  |
-| Members | |
-|   |  |
+| Vice President |  Peter Ferguson |
+| Secretary | Dave Lindsay |
+| Treasurer | Don Stewart |
+| Hall Hire | Kevin Peckham |
+|   | Frank Stokes |
+| Club Equipment | Morry Hofmeyer |
+| Social Function | Brad Repacholi |
+
+([Ref](/assets/docs/media/1992-1993%20committee%20members.pdf))
 
 ### 2021
 
@@ -99,3 +116,5 @@ The founding members a listed below, the information gathers from various docume
 [^1]: Presidency reporting in Leschenault Reporter ([Ref](./docs/media/19920909_leschenaultReporter.pdf))
 
 [^2]: First President and Secretary as referenced in "From the Archives" ([Ref](./docs/media/From%20the%20archives-club%20founding.pdf))
+
+[^3]: Member AGM Notification June 1990 ([Ref](/assets/docs/media/199006%20Member%20letter%20.pdf))

@@ -1,6 +1,52 @@
 # Bunbury Radio Club
 
+## Founding Members
+
+The founding members a listed below, the information gathers from various documents in the archive.
+
+- Ron Leech
+- Doug Wells
+- Brian Von Bibra
+- Mater Prinz
+- Peter Stanicic
+- Ron Youard
+
+[Ref](./docs/media/From%20the%20archives-club%20founding.pdf)
+
+
 ## Committee
+
+### 1977
+
+| Office | Bearer |
+|---|---|
+| President | Peter Stanicic [^2] |
+| Vice President |  |
+| Secretary/Treasurer | Ron Youard  [^2] |
+
+### Date Indeterminant
+
+| Office | Bearer |
+|---|---|
+| President | Dave XXXXX [^2] |
+| Vice President |  |
+| Secretary/Treasurer |  |
+
+### Date Indeterminant
+
+| Office | Bearer |
+|---|---|
+| President | Les XXXXX [^2] |
+| Vice President |  |
+| Secretary/Treasurer |  |
+
+### Date Indeterminant
+
+| Office | Bearer |
+|---|---|
+| President | Don XXXXX [^2] |
+| Vice President |  |
+| Secretary/Treasurer |  |
 
 ### 1992
 
@@ -39,5 +85,10 @@
 | Members | Stuart Cummings |
 |   | Bob Good |
 | Assessment Coordinator | Norman Gomm |
+| Membership Coordinator | Chris Saxton |
 
-[^1]: Presidency reporting in Leschenault Reporter [Ref](./docs/media/19920909_leschenaultReporter.pdf)
+## Footnotes
+
+[^1]: Presidency reporting in Leschenault Reporter ([Ref](./docs/media/19920909_leschenaultReporter.pdf))
+
+[^2]: First President and Secretary as referenced in "From the Archives" ([Ref](./docs/media/From%20the%20archives-club%20founding.pdf))

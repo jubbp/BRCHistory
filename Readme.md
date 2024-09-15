@@ -16,6 +16,8 @@ I welcome you input/additions/corrections. Please email me [vk6dev@gmail.com](ma
 
 1987/09 2 Articles featuring BRC in "CB Action" magazine [link](inthenews.md#1987---cb-action)
 
+1992 - Bunbury Radio Club and South West Amateur Radio Club merger ([Ref](./docs/media/Archive%20document%20explaining%20affiliation%20of%20BRC%20and%20SWARG.pdf ))
+
 ## Bunbury And Districts UHF Repeater Group
 
 I found this in a magazine article. First I had heard of it. [Link](bunburyanddistrictsuhfgroup.md)

@@ -1,4 +1,8 @@
-# A History of the Bunbury Radio Club
+---
+layout: home
+title: A History of the Bunbury Radio Club
+permalink: /
+---
 
 Welcome to my attempt to document the history of the Bunbury Radio Club.
 
@@ -8,7 +12,7 @@ I welcome you input/additions/corrections. Please email me [vk6dev@gmail.com](ma
 
 ## Foundation
 
-The Bunbury Radio Club was founded in 1977. The official date I am setting as the official date is 12 March 1977, which is the earliest reference I could find to a meeting which led to the establishment of the "Bunbury CB Radio Club". ([Ref](./docs/media/From%20the%20archives-club%20founding.pdf))
+The Bunbury Radio Club was founded in 1977. The date I am setting as the official date is 12 March 1977, which is the earliest reference I could find to a meeting which led to the establishment of the "Bunbury CB Radio Club". ([Ref](./docs/media/From%20the%20archives-club%20founding.pdf))
 
 ## Club Chronology
 

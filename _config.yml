@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            Bunbury Radio Club
+longtitle:        A History of the Bunbury Radio Club
+author:           Phillip Jubb
+email:            vk6dev@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://jubbp.github.io'
+baseurl:          '/BRCHistory'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself

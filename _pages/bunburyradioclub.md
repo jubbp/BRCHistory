@@ -1,4 +1,11 @@
-# Bunbury Radio Club
+---
+title: Bunbury Radio Club
+author: Phillip Jubb
+date: 2024-09-15
+category: BRC
+layout: post
+---
+
 
 ## Founding Members
 

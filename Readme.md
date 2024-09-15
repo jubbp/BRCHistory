@@ -6,6 +6,10 @@ My name is Phil and my amateur radio call sign is VK6DEV.
 
 I welcome you input/additions/corrections. Please email me [vk6dev@gmail.com](mailto:vk6dev@gmail.com)
 
+## Foundation
+
+The Bunbury Radio Club was founded in 1977. The official date I am setting as the official date is 12 March 1977, which is the earliest reference I could find to a meeting which led to the establishment of the "Bunbury CB Radio Club". ([Ref](./docs/media/From%20the%20archives-club%20founding.pdf))
+
 ## Club Chronology
 
 1977/03/12 - Bunbury CB Radio Club formed. ([Ref](./docs/media/19920909_leschenaultReporter.pdf))

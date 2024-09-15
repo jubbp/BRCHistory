@@ -18,3 +18,10 @@ layout: post
 | Frank Stokes | BR676 | Bunbury | ?? | Life Member |
 | Phil Howe | BR680 | Australind | ?? | |
 | Lyn howe | BR682 | Australind | ?? | |
+| Jim Wilkinson | BR6143 | Bunbury | ?? | |
+| Murray Peacock | BR6152 | Bunbury | ?? | |
+| Len Huf | BR6170 | Bunbury | ?? | |
+| Vern Humble | BR6174 | Bunbury |  ?? | |
+| Phillip Jubb | VK6DEV | Dalyellup | 2022 | |
+| Arthur Piraka | | Bunbury | 2023 ? | |
+| Chris Saxton | VK6FAB | Eaton | 2024 | |

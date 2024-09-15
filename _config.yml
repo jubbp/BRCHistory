@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://jbrchistory.devlanky.net'
+url:              'https://brchistory.devlanky.net'
 baseurl:          ''
 rss:              RSS
 
@@ -58,8 +58,8 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
   - pages
+  - posts
   - others
 
 page_width: 800px

@@ -1,4 +1,10 @@
-# Media Archive
+---
+title: Media Archive
+author: Phillip Jubb
+date: 2024-09-15
+category: BRC
+layout: post
+---
 
 This page lists all the reference documents associated with the Bunbury Radio Club.
 
